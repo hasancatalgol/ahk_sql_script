@@ -1,0 +1,44 @@
+;SQL Commands
+::select::SELECT
+::from::FROM
+::top::TOP
+::on::ON
+::bet::BETWEEN
+::desc::DESC
+::asc::ASC
+
+::as::
+	Send, AS '' 
+return
+::dist::
+	Send, DISTINCT(
+return
+
+::gro::
+	Send, GROUP BY(
+return
+
+::ord::
+	Send, ORDER BY(
+return
+
+::min::
+	Send, MIN(
+return
+
+::max::
+	Send, MAX(
+return
+
+::avg::
+	Send, AVG(
+return
+
+::sum::
+	Send, SUM(
+return
+
+::count::
+	Send, COUNT(
+return
+
